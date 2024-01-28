@@ -10,7 +10,7 @@ Este projeto visa recriara landing page do Spotify com HTML, CSS, JavaScript e R
 
 ## Tecnologias Utilizadas
 
-- <i class="fa-brands fa-html5"></i> HTML5
-- <i class="fa-brands fa-css3"></i> CSS3
-- <i class="fa-brands fa-js"></i> JavaScript
-- <i class="fa-brands fa-react"></i> React
+<i class="fa-brands fa-html5"></i> HTML5
+<i class="fa-brands fa-css3"></i> CSS3
+<i class="fa-brands fa-js"></i> JavaScript
+<i class="fa-brands fa-react"></i> React
