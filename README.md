@@ -6,7 +6,7 @@ Uma recriação da landing page do Spotify, desenvolvida durante uma imersão de
 
 ## Overview
 
-Este projeto visa recriara landing page do Spotify com HTML, CSS, JavaScript e React, proporcionando uma experiência similar ao site oficial.
+Este projeto visa recriar a landing page do Spotify com HTML, CSS, JavaScript e React, proporcionando uma experiência similar ao site oficial.
 
 ## Tecnologias Utilizadas
 
