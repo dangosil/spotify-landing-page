@@ -1,7 +1,6 @@
 # Spotify Landing Page Clone
 
 ![Spotify Landing Page Clone]
-(https://github.com/dangosil/spotify-landing-page-imersao-alura/blob/main/Screenshot%202024-01-28%20172118.png?raw=true)
 
 Uma recriação da landing page do Spotify, desenvolvida durante uma imersão de estudos na Alura.
 
