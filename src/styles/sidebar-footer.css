@@ -13,13 +13,13 @@ body {
 }
 
 .sidebar__navigation {
-    background-color: #1a1e20;
+    background-color: #001b05;
     border-radius: 8px;
     padding: 16px 0 0 16px;
 }
 
 .sidebar__navigation .logo {
-    background: #1a1e20;
+    background: #001b05;
     display: flex;
     border-radius: 8px;
     padding: 16px 0 0 16px;
@@ -47,7 +47,7 @@ body {
 }
 
 .library {
-    background-color: #1a1e20;
+    background-color: #001b05;
     border-radius: 8px;
     display: flex;
     justify-content: space-between;
@@ -95,7 +95,7 @@ body {
     align-items: flex-start;
     justify-content: space-between;
     gap: 20px;
-    background-color: #2f3233;
+    background-color: #2a352d;
     color: #b3b3b3;
     font-weight: 600;
     font-size: 14px;
@@ -157,7 +157,7 @@ body {
 .languages .languages__button {
     align-items: center;
     background-color: transparent;
-    border: 1px solid #878787;
+    border: 1px solid #418f55;
     color: #fff;
     font-weight: bold;
     cursor: pointer;
